@@ -1,7 +1,5 @@
 .DEFAULT_GOAL := build-all
 
-export GO15VENDOREXPERIMENT=1
-
 build-all: pb
 
 build:
